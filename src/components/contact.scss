@@ -1,0 +1,30 @@
+.contact {
+  background-color: rgba(49, 68, 68, 1);
+  box-shadow: inset 10px 10px 100px #1c2121, inset 10px 10px 200px #1c2121;
+  padding: 100px !important;
+  height: 100%;
+  h1 {
+    font-family: "Courgette", fantasy;
+    color: #f03c06;
+    justify-content: center;
+    display: flex;
+  }
+}
+ul {
+  list-style-type: none;
+}
+
+.contact-details > hr {
+  width: 2px;
+  height: 94px !important;
+  color: #fff;
+  background-color: #fff;
+  border: 18px;
+  opacity: 1;
+}
+.contact-details-name {
+  font-family: "Courgette", fantasy;
+  color: #fff;
+  font-weight: 700;
+  line-height: 2rem;
+}

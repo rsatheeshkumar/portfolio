@@ -1,0 +1,31 @@
+.header-wrapper {
+  position: relative;
+  background: url("./images/coffee-apple.jpg");
+  opacity: 0.9;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.6);
+  box-shadow: inset 10px 10px 100px #000000, inset 10px 10px 200px #000000;
+}
+.info {
+  z-index: 2;
+  border: none;
+  h1 {
+    color: #f03c06;
+    opacity: 2;
+    font-weight: 400;
+    font-size: 4rem;
+    line-height: 1.1rem;
+    margin: 0 0 3rem;
+  }
+  p {
+    color: #d9d6d6;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 1.9rem;
+    line-height: 1.25;
+    margin: 0 0 2rem;
+  }
+}
