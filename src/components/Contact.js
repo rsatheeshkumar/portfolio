@@ -18,6 +18,7 @@ const Contact = () => {
             <ul className="contact-details-name d-flex flex-column justify-content-around flex-wrap">
               <li>Satheesh kumar R</li>
               <li>rsatheeshkumar2894@gmail.com</li>
+              <li>+91 9344991925</li>
               <li>+91 9629875433</li>
             </ul>
             <hr />
